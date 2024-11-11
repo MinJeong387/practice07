@@ -9,6 +9,8 @@ public abstract class Shape {
 	}
 	
 	public abstract void draw();
+	
+	// 되나요 ??
 }
 
 
